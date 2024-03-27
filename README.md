@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Page about Richard Bittman"
-permalink: /amazing/
 ---
 
 # Introduction
