@@ -1,7 +1,9 @@
 # Introduction
-Welcome! 
+Welcome to my GitHub page! 
 
 ## About me
-Firstly, this web page is a work in progress. I am a Ph.D. student at the University of Life Sciences.
+This web page is currently under development. Richard Bittman is a Ph.D. student at the University of Life Sciences.
 
+
+## Contact 
 [facebook](https://www.facebook.com/richard.bittman/)
