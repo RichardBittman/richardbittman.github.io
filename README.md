@@ -1,8 +1,3 @@
----
-layout: page
-title: "Page about Richard Bittman"
----
-
 # Introduction
 Welcome! 
 
