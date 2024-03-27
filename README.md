@@ -1,2 +1,15 @@
-# richardbittman.github.io
-## How this thing works?
+---
+layout: page
+title: "Page about Richard Bittman"
+permalink: /amazing/
+---
+
+# Introduction
+Welcome! 
+
+## About me
+Firstly, this web page is a work in progress.  I am a Ph.D. student at the University of Life Sciences.
+
+[facebook](https://www.facebook.com/richard.bittman/)
+
+
